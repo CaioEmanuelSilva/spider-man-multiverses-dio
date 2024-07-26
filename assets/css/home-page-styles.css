@@ -128,7 +128,7 @@ body::before {
 }
 
 .s-controller__button--active {
-  background-color: white;
+  background-color: #343CA3;
   color: var(--primary-color);
   border: 0.1875rem solid var(--primary-color);
   outline: 0.125rem solid white;
